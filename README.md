@@ -1,6 +1,7 @@
-# project
+# iPon
 
-A new Flutter project.
+A budget management application. Originally submitted on Oct. 5, 2020 in partial fulfillment of ITE 013 - Application Development and Emerging Technologies.
+Front-end designs by Zaira Marquez & Mickaela Jeorge Mendoza, back-end and coding of front-end by Brian Valencia.
 
 ## Getting Started
 
